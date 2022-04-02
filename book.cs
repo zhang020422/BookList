@@ -14,7 +14,7 @@ namespace BookList
     
     public partial class book
     {
-        public int id { get; set; }
+        public int id { get; set444; }
         public string isbn { get; set; }
         public string bookName { get; set; }
         public string author { get; set; }
