@@ -10,7 +10,7 @@ namespace BookList
     {
         protected void Application_Start()
         {
-            Database.SetInitializer<BookDBContext>(new DbIntitagfgfgfgfgfgfgfglizer());
+            Database.SetInitializer<BookDBContext>(new DbIntitagfgfgfgfgfgfgfglizer3231232312());
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
